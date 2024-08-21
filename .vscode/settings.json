@@ -13,5 +13,6 @@
     ],
     "idf.pythonBinPathWin": "C:\\Users\\ounka\\.espressif\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "C:\\Users\\ounka\\.espressif",
-    "idf.portWin": "COM3"
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART"
 }
